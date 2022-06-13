@@ -1,0 +1,12 @@
+Invincibility
+00B-CE9-C4A
+Infinite Lives
+00A-B1F-3BE
+Infinite Weapon Energy 
+002-35B-A22
+FA4-88A-4C1
+FA8-A9A-4C1
+Jump In Midair
+010-258-E66
+3E0-218-2AA
+CCA-6C9-C41
