@@ -4,3 +4,5 @@ Infinite lives
 009-7EF-E6E
 Infinite ammo 
 B66-C6E-3BE
+Infinite time
+215-3AF-D5D
