@@ -1,6 +1,0 @@
-Infinite ammo on pick-up
-FAD-398-4C1
-Infinite lives
-01A-0BF-C4D
-Invulnerability
-C90-4FB-E69 
