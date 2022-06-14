@@ -1,8 +1,0 @@
-Infinite continues
-00A-1AA-19E
-Infinite lives
-FA3-AFF-4C1
-Infinite Pows
-FA3-C59-4C1
-invincible
-00E-83B-19E
