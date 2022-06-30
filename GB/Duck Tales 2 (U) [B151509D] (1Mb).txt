@@ -2,3 +2,7 @@ Infinite Health
 C9E-18E-A28
 Invulnerability
 C9C-61B-E69
+Jump in Midair 
+006-D58-E69
+008-DE8-E62
+808-BA8-E62
