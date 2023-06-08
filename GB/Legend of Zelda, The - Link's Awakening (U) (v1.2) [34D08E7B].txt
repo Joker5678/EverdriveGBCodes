@@ -2,5 +2,11 @@ Infinite Health
 000-989-19E
 Infinite Magic
 001-85E-E6E
+Infinite Rupees
+00F-B0A-A24
+Infinite Arrows
+000-92E-E6E
+Infinite Bombs
+00F-84F-E6E
 Invincibility
 C9D-8F9-081
