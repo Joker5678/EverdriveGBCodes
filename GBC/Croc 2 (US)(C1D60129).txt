@@ -1,0 +1,7 @@
+Invincibility
+C95-C9A-E69
+C95-95A-E69
+Walk Over Pits
+C97-31B-081
+Enemies Die on Contact
+185-80A-6EA

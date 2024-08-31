@@ -1,0 +1,12 @@
+Infinite Health 
+006-CEB-3BE
+Infinite Rupees 
+001-90F-A2C
+Each Infinity Worth
+005-92B-E62
+Infinite Pickup Items
+1E3-18B-XXX
+Infinite Seed Bomb Use on Pickup
+007-ACE-E6E
+
+
