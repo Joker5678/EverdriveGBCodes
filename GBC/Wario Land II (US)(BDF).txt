@@ -15,3 +15,5 @@ FAD-B0B-E65
 C3D-8BB-C41
 Always Get Right Card in Matching Game 
 EA0-71A-081
+Can Destroy White Puff Enemy On Contact
+3E9-F2B-4CA
